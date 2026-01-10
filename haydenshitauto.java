@@ -12,7 +12,7 @@
     import com.pedropathing.paths.PathChain;
     import com.pedropathing.geometry.Pose;
 
-    @Autonomous(name = "Super Epstein diddy oil, R kelly, jorking it, super tarded, macaroni of it, EFN, chicken stars, 6767676767, Seis Siete", group = "Autonomous")
+    @Autonomous(name = "YO GEMINI WHY LWK EPSTEIN", group = "Autonomous")
     @Configurable // Panels
     public class autohope extends OpMode {
       private TelemetryManager panelsTelemetry; // Panels Telemetry instance
